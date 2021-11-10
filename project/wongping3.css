@@ -1,0 +1,45 @@
+.back{
+    background-color:#e60f59;
+    color: #FFFFFF
+  }
+  
+  .container{
+    color:#FFFFFF;
+    font-size:15px;
+    text-decoration:none;
+    text-align: center;
+    
+  }
+
+.title{
+    text-align: center;
+}
+
+.intro{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+  
+  }
+  
+  li {
+    float: center;
+  }
+  
+  li a {
+    display: block;
+    color:#ffcc00;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
+

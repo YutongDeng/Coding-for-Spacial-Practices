@@ -1,0 +1,58 @@
+.back{
+    background-color:#e60f59;
+    color: #FFFFFF
+  }
+  
+  .container{
+    color:#000000;
+    font-size:15px;
+    text-decoration:none;
+  }
+  
+  .title{
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+  
+  }
+  
+  li {
+    float: center;
+  }
+  
+  li a {
+    display: block;
+    color:#ffcc00;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
+
+
+
+.table {
+	display: list-item; 
+	margin: 0 auto;
+}
+
+
+.img{
+  height:195px;
+  width:295px;
+
+}
+
+. table :hover {
+  border: 20px solid #ff5400;
+  padding: 0px;
+  }
