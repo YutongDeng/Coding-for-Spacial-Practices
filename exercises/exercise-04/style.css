@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(73, 67, 77);
+}
+.container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+
+}
+.item{
+    width: 25%;
+    height: 100%;
+    margin: 20px;
+    background-color: rgb(202, 164, 221);
+    font-size: 10px;
+    color: rgb(89, 0, 255);
+    text-align: center
+}
